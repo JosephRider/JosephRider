@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @JosephRider
+# 👋 Hi, I’m Joey Rider
 ### I am an aspiring Software Engineer.
 Welcome to my page! Please enjoy what you find, and don't hesitate to contact me by any means.
 
